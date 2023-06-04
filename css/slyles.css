@@ -716,7 +716,9 @@ body {
 /* ====== / MODAL WINDOW ======== */
 
 /* ======  MODAL FORM   ======== */
-
+.modal {
+  padding: 72px 24px 24px 24px;
+}
 .modal-form {
   display: flex;
   flex-direction: column;
@@ -736,7 +738,7 @@ body {
 }
 
 .modal-form-field {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .modal-form-field-checkbox {
@@ -766,10 +768,10 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
-  line-height: 1.16;
   letter-spacing: 0.04em;
   color: #8e8f99;
-  padding-bottom: 4px;
+  line-height: 1.17;
+  margin-bottom: 4px;
 }
 
 .modal-form-input-wrapper {
