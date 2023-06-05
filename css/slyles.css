@@ -889,6 +889,10 @@ body {
 
 /* ======  MODAL FORM FOOTER======== */
 
+.modal-form-footer-container {
+  margin-left: 80px;
+}
+
 .modal-form-footer {
   display: flex;
   gap: 24px;
