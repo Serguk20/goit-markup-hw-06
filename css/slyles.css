@@ -871,7 +871,7 @@ body {
   cursor: pointer;
 }
 
-.modal-form-check:checked + .modal-form-check-desk {
+.modal-form-check:checked + .modal-form-check-desk .modal-fake-checkbox {
   background-color: #404bbf;
   border: none;
   fill: #ffffff;
