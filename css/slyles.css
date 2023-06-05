@@ -868,9 +868,10 @@ body {
   align-items: center;
   justify-content: center;
   fill: transparent;
+  cursor: pointer;
 }
 
-.modal-form-check:checked + .modal-fake-checkbox {
+.modal-form-check:checked + .modal-form-check-desk {
   background-color: #404bbf;
   border: none;
   fill: #ffffff;
