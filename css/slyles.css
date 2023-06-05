@@ -741,6 +741,10 @@ body {
   margin-bottom: 8px;
 }
 
+.modal-form-field-comment {
+  margin-bottom: 16px;
+}
+
 .modal-form-field-checkbox {
   margin-bottom: 24px;
 }
@@ -752,6 +756,7 @@ body {
   border-radius: 4px;
   padding-left: 38px;
 
+  margin-bottom: 8px;
   background-color: transparent;
   outline: transparent;
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
