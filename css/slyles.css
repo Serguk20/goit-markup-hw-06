@@ -834,7 +834,6 @@ body {
 }*/
 
 .modal-form-check-desk {
-  display: flex;
   align-items: center;
   font-weight: 400;
   font-size: 12px;
@@ -863,7 +862,7 @@ body {
   fill: transparent;
 }
 
-.modal-form-check-desk:checked + .modal-fake-checkbox {
+.modal-form-check:checked + .modal-fake-checkbox {
   background-color: #404bbf;
   border: none;
   fill: #ffffff;
