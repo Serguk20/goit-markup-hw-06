@@ -890,9 +890,6 @@ body {
 
 /* ======  MODAL FORM FOOTER======== */
 
-.modal-form-footer-container {
-}
-
 .modal-form-footer {
   display: flex;
   gap: 24px;
