@@ -880,7 +880,7 @@ body {
 }
 
 .modal-form-check:focus + .modal-form-check-desk .modal-fake-checkbox {
-  border: 1px solid #4d5ae5;
+  outline: 1px solid #404bbf;
 }
 
 .modal-policy-link {
